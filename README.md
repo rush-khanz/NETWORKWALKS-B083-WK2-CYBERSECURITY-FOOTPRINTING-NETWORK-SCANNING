@@ -1,4 +1,3 @@
-# NETWORKWALKS-B083-WK2-CYBERSECURITY-FOOTPRINTING-NETWORK-SCANNING
 # 🔐 Week 2 — Footprinting & Network Scanning
 
 **Cybersecurity & Ethical Hacking Learning Program | Networkwalks**
@@ -110,7 +109,7 @@ These practicals were completed for educational purposes to understand reconnais
 
 The complete report contains the detailed methodology, commands, observations, evidence, risk analysis, recommendations, and conclusion from the Week 2 activities.
 
-📁 **[View the complete report](Report/W2-PM-FINAL-Rushda-Khan.pdf)**
+📁 **[View the complete report](W2-PM-FINAL-Rushda-Khan.pdf)**
 
 ---
 
